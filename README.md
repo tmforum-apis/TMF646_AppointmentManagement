@@ -1,14 +1,8 @@
-# TMF646_AppointmentManagement
-TM Forum Open APIs (Apache 2.0) Appointment Management API
+# TMF646 AppointmentManagement
 
-The Appointment Management API is one of the Pre-Ordering Management APIs.
-The appointment API provides a standardized mechanism to book an appointment
-with all the necessary appointment characteristics. First, the API consists
-in searching free slots based on parameters, as for example a party. Then,
-the appointment is created. The appointment has characteristics such as nature
-of appointment, place of appointment.
+TM Forum Open API (Apache 2.0) AppointmentManagement API.
 
-To access this API; (the Specification, Postman Collection, Swagger file, Swagger-UI,
-Reference Implementation, Conformance Profile, and CTK) go to the Open API table at:
+The appointment API provides a standardized mechanism to book an appointment with all the necessary appointment characteristics. First, the API consists in searching free slots based on parameters, as for example a party. Then, the appointment is created. The appointment has characteristics such as nature of appointment, place of appointment.
 
-https://projects.tmforum.org/wiki/display/API/Open+API+Table
+The resources in this repository are a mirror of the official versions, published here for your convenience.
+The authoritative source of information for this API is: https://www.tmforum.org/oda/open-apis/directory/
